@@ -1,3 +1,4 @@
 Country: USA
 
 Homeland: Kiyv, Ukraine
+Language: russian, Ukrainian, English
