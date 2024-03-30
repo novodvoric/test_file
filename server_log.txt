@@ -1,0 +1,28 @@
+2024-03-23 10:15:32 - 192.168.1.100 - GET /index.html - 200 OK
+2024-03-23 10:16:45 - 192.168.1.101 - POST /login.php - 302 Found
+2024-03-23 10:17:59 - 192.168.1.102 - GET /images/logo.png - 404 Not Found
+2024-03-23 10:19:12 - 192.168.1.103 - GET /about.html - 200 OK
+2024-03-23 10:20:28 - 192.168.1.104 - GET /contact.html - 200 OK
+2024-03-23 10:21:43 - 192.168.1.105 - GET /styles/main.css - 200 OK
+2024-03-23 10:22:57 - 192.168.1.106 - GET /scripts/script.js - 200 OK
+2024-03-23 10:24:10 - 192.168.1.107 - GET /images/banner.jpg - 200 OK
+2024-03-23 10:25:23 - 192.168.1.108 - POST /submit_form.php - 200 OK
+2024-03-23 10:26:37 - 192.168.1.109 - GET /page.html - 302 Found
+2024-03-23 10:27:51 - 192.168.1.110 - GET /images/background.jpg - 200 OK
+2024-03-23 10:29:04 - 192.168.1.111 - GET /scripts/jquery.min.js - 200 OK
+2024-03-23 10:30:18 - 192.168.1.112 - GET /styles/custom.css - 200 OK
+2024-03-23 10:31:32 - 192.168.1.113 - GET /images/gallery/image1.jpg - 200 OK
+2024-03-23 10:32:45 - 192.168.1.114 - GET /images/gallery/image2.jpg - 200 OK
+2024-03-23 10:33:59 - 192.168.1.115 - GET /images/gallery/image3.jpg - 404 Not Found
+2024-03-23 10:35:12 - 192.168.1.116 - GET /images/gallery/image4.jpg - 200 OK
+2024-03-23 10:36:25 - 192.168.1.117 - GET /images/gallery/image5.jpg - 200 OK
+2024-03-23 10:37:38 - 192.168.1.118 - GET /images/gallery/image6.jpg - 200 OK
+2024-03-23 10:38:52 - 192.168.1.119 - GET /images/gallery/image7.jpg - 404 Not Found
+2024-03-23 10:40:05 - 192.168.1.120 - GET /images/gallery/image8.jpg - 200 OK
+2024-03-23 10:41:19 - 192.168.1.121 - GET /images/gallery/image9.jpg - 200 OK
+2024-03-23 10:42:33 - 192.168.1.122 - GET /images/gallery/image10.jpg - 200 OK
+2024-03-23 10:43:46 - 192.168.1.123 - GET /images/gallery/image11.jpg - 404 Not Found
+2024-03-23 10:45:00 - 192.168.1.124 - GET /images/gallery/image12.jpg - 200 OK
+2024-03-23 10:46:14 - 192.168.1.125 - GET /images/gallery/image13.jpg - 200 OK
+2024-03-23 10:47:28 - 192.168.1.126 - GET /images/gallery/image14.jpg - 200 OK
+2024-03-23 10:48:42 - 192.168.1.127 - GET /images/gallery/image15.jpg - 404 Not Found
